@@ -4,7 +4,7 @@
 - 🎮 Learning Minecraft Plugin Development
 
 
-## My Projects
+## 📂 My Projects
 Soon
 Soon
 Soon
