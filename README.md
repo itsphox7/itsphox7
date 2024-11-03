@@ -1,7 +1,7 @@
 # 💫 About me
 
-🤖 Discord Bot Developer
-🎮 Learning Minecraft Plugin Development
+- 🤖 Discord Bot Developer
+- 🎮 Learning Minecraft Plugin Development
 
 
 ## My Projects
