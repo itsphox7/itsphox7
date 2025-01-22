@@ -10,5 +10,5 @@ Soon
 Soon
 
 
-## 📈 GitHub Sats
+## 📈 GitHub Stats
 ![Zyraphix's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyraphixx&show_icons=true&theme=dracula)
