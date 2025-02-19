@@ -11,4 +11,4 @@ Soon
 
 
 ## 📈 GitHub Stats
-![Zyraphix's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyraphixx&show_icons=true&theme=dracula)
+![Zyraphix's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxtylerx&show_icons=true&theme=dracula)
