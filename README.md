@@ -2,12 +2,11 @@
 
 - 🤖 Discord Bot Developer
 - 🎮 Learning Minecraft Plugin Development
+- 📝 Minecraft Server Owner (Mythral)
 
 
 ## 📂 My Projects
-Soon
-Soon
-Soon
+Mythral - https://discord.gg/mythral
 
 
 ## 📈 GitHub Stats
