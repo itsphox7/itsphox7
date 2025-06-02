@@ -10,4 +10,4 @@ Mythral - https://discord.gg/mythral
 
 
 ## 📈 GitHub Stats
-![Zyraphix's GitHub stats](https://github-readme-stats.vercel.app/api?username=localchown&show_icons=true&theme=dracula)
+![Zyraphix's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsphox7&show_icons=true&theme=dracula)
