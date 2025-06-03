@@ -1,6 +1,6 @@
 # 💫 About me
 
-- 🤖 Discord Bot Developer
+- 🤖 Python Freak
 - 🎮 Learning Minecraft Plugin Development
 - 📝 Minecraft Server Owner (Mythral)
 
