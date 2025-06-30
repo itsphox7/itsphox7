@@ -6,8 +6,8 @@
 
 
 ## 📂 My Projects
-Download.exe (Free Software) - https://discord.gg/downloadexe
-Minigame Server (kleines Freunde Projekt)
+- Download.exe (Free Software) - https://discord.gg/downloadexe
+- Minigame Server (kleines Freunde Projekt)
 
 
 
