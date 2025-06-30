@@ -6,8 +6,10 @@
 
 
 ## 📂 My Projects
-Mythral - https://discord.gg/mythral
+Download.exe (Free Software) - https://discord.gg/downloadexe
+Minigame Server (kleines Freunde Projekt)
+
 
 
 ## 📈 GitHub Stats
-![Zyraphix's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsphox7&show_icons=true&theme=dracula)
+![ItsPhox's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsphox7&show_icons=true&theme=dracula)
