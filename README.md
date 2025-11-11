@@ -1,13 +1,13 @@
 # 💫 About me
 
-- 🤖 Python Freak
+- 🤖 Just a guy that build tech
 - 🎮 Learning Minecraft Plugin Development
-- 📝 Minecraft Server Owner (Mythral)
+- 📝 Founder of Zentox Network
 
 
 ## 📂 My Projects
-- Download.exe (Free Software) - https://discord.gg/downloadexe
-- Minigame Server (kleines Freunde Projekt)
+- Zentox Network (https://discord.gg/M4k5NnuVdh)
+- Media Server
 
 
 
