@@ -2,12 +2,11 @@
 
 - 🤖 Just a guy that build tech
 - 🎮 Learning Minecraft Plugin Development
-- 📝 Founder of Zentox Network
 
 
 ## 📂 My Projects
-- Zentox Network (https://discord.gg/M4k5NnuVdh)
 - Media Server
+- MultiTool's and more
 
 
 
