@@ -20,7 +20,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class AboutMe:
 
     def __init__(self):
         self.name = "ItsPhox"
