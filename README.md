@@ -31,6 +31,6 @@ class AboutMe:
         print("Thanks for visiting my profile, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = AboutMe()
 me.say_hi()
 ```
