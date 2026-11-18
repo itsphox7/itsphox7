@@ -8,7 +8,7 @@
 ```kotlin
 class AboutMe(
     val name: String = "ItsPhox",
-    val role: String = "Tech guy",
+    val role: String = "Kotlin Developer",
     val languageSpoken: List<String> = listOf("de_DE", "en_US")
 ) {
     fun sayHi() {
